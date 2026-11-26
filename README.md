@@ -1,1 +1,0 @@
-A simple Python payment processing system demonstrating Abstract Base Classes (ABC), abstraction, inheritance, and polymorphism.
